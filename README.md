@@ -1,2 +1,3 @@
 # PRODIGY_WD_01
-# Responsive_Landing Page
+# Responsive Landing Page for PlayStation
+Overview
