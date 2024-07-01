@@ -17,3 +17,5 @@ This repository contains a responsive landing page for PlayStation, built using 
 <h3>Acknowledgments</h3>
 -PlayStation logo and branding assets are the property of Sony Interactive Entertainment.<br>
 -Google Maps API is used under the terms of the Google Maps API Terms of Service.<br>
+<h3>Contributing</h3>
+If you'd like to contribute to this project, please fork the repository and submit a pull request. I'm always looking for ways to improve and expand my Landing Page!
